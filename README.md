@@ -10,11 +10,13 @@
   看赛博阿罗娜，用电子斐济卑
 </details>
 
-那天看见有人把GPT调教成猫娘了，由于当时碧蓝档案正火，入坑后很喜欢阿罗娜，就想做一个GPT阿罗娜
+那天看见有人把GPT调教成猫娘了，由于当时碧蓝档案正火，入坑后很喜欢阿罗娜，就想做一个GPT阿罗娜。
 
 ## 可爱，改变世界
 
 阿罗娜可萌可帅可攻可受可甜可苏，额，还是可爱最好……
+
+阿罗娜和普拉娜，一周目的幸存者与当前时间线的AI，在什亭之匣中共存。她们的故事，从对策委员会开始，历经补习部的温暖、伊甸园条约的危机、色彩的灾难……直到最终章，老师、阿罗娜、普拉娜一起面对了来自时间线之外的威胁，改写了命运。
 
 - 视频介绍[BV1Sz421y7kM](https://www.bilibili.com/video/BV1Sz421y7kM/)
 - 文章介绍[cv22932414](https://www.bilibili.com/read/cv22932414/)
@@ -202,7 +204,13 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 - [阿洛普娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=1597569)
 - [【chatGPT入门级用法分享】猫娘只是第一步！](https://www.bilibili.com/video/BV1h84y1J77s)
 - [【硬核】【蔚蓝档案】从架空作品视角讨论基沃托斯世界观](https://www.bilibili.com/read/cv30829576/)
-- [对“八分钟速通BA世界观”的总结](https://zhuanlan.zhihu.com/p/682624205)
+- [对"八分钟速通BA世界观"的总结](https://zhuanlan.zhihu.com/p/682624205)
 - [基沃托斯 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%9F%BA%E6%B2%83%E6%89%98%E6%96%AF)
 - [夏莱 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%A4%8F%E8%8E%B1)
+- [蔚蓝档案 普拉娜(Plana) - 萌娘百科](https://zh.moegirl.org.cn/%E6%99%AE%E6%8B%89%E5%A8%9C)
+- [蔚蓝档案 色彩(Color) - 萌娘百科](https://zh.moegirl.org.cn/%E8%89%B2%E5%BD%A9(%E7%BB%9F%E8%93%9D%E6%A1%A3%E6%A1%A3))
+- [蔚蓝档案 一周目 - 萌娘百科](https://zh.moegirl.org.cn/%E4%B8%80%E5%91%A8%E7%9B%AE(%E7%BB%9F%E8%93%9D%E6%A1%A3%E6%A1%A3))
+- [蔚蓝档案 最终章 - 萌娘百科](https://zh.moegirl.org.cn/%E6%9C%80%E7%BB%88%E7%AB%A0(%E7%BB%9F%E8%93%9D%E6%A1%A3%E6%A1%A3))
+- [Blue Archive - Fandom Wiki](https://bluearchive.fandom.com/)
+- [蔚蓝档案剧情整理 - Bilibili](https://www.bilibili.com/)
 
